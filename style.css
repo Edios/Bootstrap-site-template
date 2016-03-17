@@ -1,0 +1,45 @@
+.small-dark-title{
+  background-color: #000000;
+  color: white;
+  padding: 6px 12px;
+  display: inline-block;
+}
+img{
+  max-width: 100%;
+}
+
+.col-first-position{
+  padding-top:10px;
+}
+
+.col-secondary{
+  border: 1px solid #eee;
+  border-top: none;
+  border-bottom: none;
+}
+
+.bg-grey{
+  background: #f5f5f5;
+  padding: 0 10px 10px;
+}
+
+.menu-position{
+  margin-top:20px;
+}
+
+.tabs-styling{
+  style="background: #eee;
+  padding: 20px 10px 0;
+  border-radius:5px 5px 0 0;
+}
+
+.unvisible-horizontal-line{
+  border:none;
+}
+.footer-separator{
+  border-top-width: 20px;
+}
+
+.credits-position{
+  padding: 20px 0 40px;
+}
